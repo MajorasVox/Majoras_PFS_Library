@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="1cac3249-1bad-4b82-9818-23dfff1f8cd6" type="23" />
+            <attribute id="Name" value="PFS: Shared Library" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="5dfb4b65-18fb-495b-a493-e31484b1dba5" type="23" />
+        </node>
+    </region>
+</save>
